@@ -49,7 +49,7 @@ int readOnlyInt()
     return i;
 }
 
-//ruchy gracza
+//player's move
 void player_input(int symbol) 
 {
     bool ok = false;
